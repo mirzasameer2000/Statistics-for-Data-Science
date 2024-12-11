@@ -1,0 +1,10 @@
+
+1- linear Regression
+2- EFA
+3- LDA & QDA
+4- Logistic Regression
+5- K means Clustering
+6- MDS
+7- MNMDS
+8- SVM 
+
